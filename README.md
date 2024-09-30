@@ -3,15 +3,15 @@ The seat booking system project effectively demonstrates several fundamental cor
 1. Data Structures:
     2D Arrays: To represent the seating chart, a 2D array is used, where each element corresponds to a seat.
 2. Control Flow:
-    Loops: A while loop is used to allow continuous booking until the user chooses to stop.
    
+    Loops: A while loop is used to allow continuous booking until the user chooses to stop.
     Conditional Statements: if-else statements are used to validate input, check seat availability, and book seats accordingly.
-4. Input/Output:
+3. Input/Output:
     Scanner: To read user input for row and seat numbers.
     System.out.println: To display the seating chart and provide feedback to the user.
-5. Methods:
+4. Methods:
     The code is broken down into smaller, easier-to-understand parts, making it more organized and reusable.
-6. Variables and Data Types:
+5. Variables and Data Types:
     Variables: Variables are used to store information such as the number of rows, seats per row, row and seat numbers, and user choices.
     Data Types: int and char data types are used to represent numbers and characters, respectively.
 
