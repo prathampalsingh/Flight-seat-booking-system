@@ -17,5 +17,6 @@ The seat booking system project effectively demonstrates several fundamental cor
 
 
 ---By understanding and applying these core Java concepts, you can effectively build various applications, including seat booking systems.---
+
 ![Capture](https://github.com/user-attachments/assets/12edbf26-f550-4e5b-b7bf-2dbbe929a4e4)
 ![Capture1](https://github.com/user-attachments/assets/0a49dff6-ab0e-47cf-a254-6391ef640156)
